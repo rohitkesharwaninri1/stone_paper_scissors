@@ -1,0 +1,15 @@
+{
+  "name": "stone_paper_scissor_game",
+  "version": "1.0.0",
+  "description": "Game for 4 player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit kesharwani",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^14.5.0",
+    "nodemon": "^2.0.4"
+  }
+}
